@@ -1,0 +1,22 @@
+img{
+	width: 250px;
+	}
+body {
+	font-family: system-ui, cursive;
+	display: grid;
+	place-content: center;
+	min-height: 100vh;
+	margin: 0;
+	color: Chartreuse;
+	background-color: magenta;
+	text-align: center;
+}
+button {
+	padding: 0.6rem 1.2rem;
+	font-size: 1rem;
+	border-radius: 8px;
+	border: 0;
+	background: #841423;
+	color: rgb(24, 213, 81);
+	cursor: pointer;
+}
